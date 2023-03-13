@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/dwi-hadyan-harsono-268009128/"><img style="margin-right: 16px;" align="left" alt="Linkedin" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
+<a href="https://www.linkedin.com/in/dwi-hadyan-harsono-268009128/"><img style="margin-right: 16px;" align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
 
 <br/>
 <br/>
